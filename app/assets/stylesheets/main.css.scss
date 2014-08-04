@@ -1,0 +1,18 @@
+.editor-addons{
+  text-align: right;
+  a{
+    margin-left: 5px;
+    color: red;
+    &:hover{
+      color: black;
+    }
+  }
+}
+ul#post_elements{
+  list-style: none;
+  margin: 0 0 10px 0;
+  padding: 0;
+  li{
+    margin-top: 5px;
+  }
+}
